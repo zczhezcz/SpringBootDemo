@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringBootElasticsearch" />
+        <module name="spring-boot-kafka" />
+        <module name="SpringBootConfig" />
+        <module name="SpringBootQuickStart" />
+        <module name="spring-boot-zookeeper" />
+        <module name="spring-boot-mybatis" />
+        <module name="SpringBootRedis" />
+        <module name="SpringBootLogback" />
+        <module name="spring-boot-quick-start" />
+        <module name="spring-boot-jpa" />
+        <module name="spring-boot-config" />
+        <module name="SpringBootKafka" />
+        <module name="spring-boot-web-intercept" />
+        <module name="SpringBootMybatis" />
+        <module name="SpringBootWebIntercept" />
+        <module name="spring-boot-mybatis-baomidou" />
+        <module name="spring-boot-logback" />
+        <module name="SpringBootZookeeper" />
+        <module name="SpringBootJpa" />
+        <module name="SpringBootMybatisMultiSoruce" />
+        <module name="spring-boot-elasticsearch" />
+        <module name="spring-boot-web" />
+        <module name="spring-boot-mybatis-multi-soruce" />
+        <module name="SpringBootWeb" />
+        <module name="spring-boot-redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringBootDubbo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-elasticsearch" options="-parameters" />
+    </option>
+  </component>
+</project>
