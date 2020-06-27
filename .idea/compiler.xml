@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SpringBootElasticsearch" />
         <module name="spring-boot-kafka" />
+        <module name="SpringBootConfig" />
         <module name="SpringBootQuickStart" />
         <module name="spring-boot-zookeeper" />
         <module name="spring-boot-mybatis" />
@@ -19,7 +20,6 @@
         <module name="SpringBootKafka" />
         <module name="spring-boot-web-intercept" />
         <module name="SpringBootMybatis" />
-        <module name="spring-boot-mybatis-multi-soruce" />
         <module name="SpringBootWebIntercept" />
         <module name="spring-boot-mybatis-baomidou" />
         <module name="spring-boot-logback" />
@@ -28,7 +28,7 @@
         <module name="SpringBootMybatisMultiSoruce" />
         <module name="spring-boot-elasticsearch" />
         <module name="spring-boot-web" />
-        <module name="SpringBootConfig" />
+        <module name="spring-boot-mybatis-multi-soruce" />
         <module name="SpringBootWeb" />
         <module name="spring-boot-redis" />
       </profile>

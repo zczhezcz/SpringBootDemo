@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 import java.util.concurrent.TimeUnit;
 
 @Repository
-public class RedisDao {
+public class RedisStringDao {
 
     @Autowired
     private StringRedisTemplate template;
